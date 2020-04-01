@@ -1,11 +1,7 @@
 ---
 layout: post
-title: About
+title: "About"
 date: 2020-01-04 21:14:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [About, Resume, CV]
 ---
 # Mustafa  Arslan &ndash; Senior Software Engineer
 - 5+ years of experience as a software engineer in various industries
